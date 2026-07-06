@@ -1,4 +1,4 @@
-# 
+# Top Visual Studio extensões para Mac OS | Oficial Visual Studio extensões para PC Windows. Com ferramentas de refatoração e explorador de arquivos — otimizado para máximo desempenho em cada plataforma.
 
 
 
